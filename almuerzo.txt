@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Carne
 Cerveza
+=======
+Vegetales
+>>>>>>> d818e14aff092031e4758dcd3cd26682a34beefc
