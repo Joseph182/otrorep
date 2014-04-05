@@ -1,3 +1,1 @@
-vino
-tomate
-gaseosa
+champiñon
